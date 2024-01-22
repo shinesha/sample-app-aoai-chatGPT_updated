@@ -10,7 +10,7 @@ export const ShareButton: React.FC<ShareButtonProps> = ({onClick}) => {
           width: 86,
           height: 32,
           borderRadius: 4,
-          background: '#FFFFFF',
+          background: '#d30909',
         //   position: 'absolute',
         //   right: 20,
           padding: '5px 12px',
