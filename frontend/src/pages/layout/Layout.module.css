@@ -46,7 +46,7 @@
     gap: 4px;
     width: 86px;
     height: 32px;
-    background: #d30909;
+    background: #d30909 /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     border-radius: 4px;
     flex: none;
     order: 1;
@@ -57,7 +57,7 @@
 }
 
 .shareButton {
-    color: #FFFFFF;
+    color: #d30909;
 }
 
 .shareButtonText {
